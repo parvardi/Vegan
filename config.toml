@@ -1,5 +1,5 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "tale-theme"
-title = "Brevifolia"
 relativeURLs = "true"
+theme = "tale-theme"
+title = "Conscious Veganism"
